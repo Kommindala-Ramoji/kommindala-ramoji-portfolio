@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://my-portfolio-two-kappa-31.vercel.app/sitemap.xml
+Sitemap: https://kommindala-ramoji-portfolio.vercel.app/sitemap.xml

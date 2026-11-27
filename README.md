@@ -2,7 +2,7 @@
 
 A single-page developer portfolio showcasing full-stack web applications, technical skills, internships, and leadership experience.
 
-**Live site:** https://my-portfolio-two-kappa-31.vercel.app/
+**Live site:** https://kommindala-ramoji-portfolio.vercel.app/
 
 ## Tech Stack
 - React 19
