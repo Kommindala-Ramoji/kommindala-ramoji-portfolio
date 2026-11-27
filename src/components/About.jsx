@@ -47,7 +47,7 @@ export default function About() {
                 {/* Photo */}
                 <img
                   src={stackImage}
-                  alt={`Portrait of ${personalInfo.name}`}
+                  alt="Kommindala Ramoji — Python Full Stack Developer, TAP Academy student"
                   className="w-full h-[calc(100%-20px)] rounded-xl object-cover object-top"
                 />
               </div>
